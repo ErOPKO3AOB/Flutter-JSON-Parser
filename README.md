@@ -1,3 +1,3 @@
 # json_parser
 
-A new Flutter project.
+Использованы BLoC, Freezed и Dio
